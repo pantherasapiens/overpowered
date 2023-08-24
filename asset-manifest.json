@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/overpowered/static/css/main.7ed0206b.css",
+    "main.js": "/overpowered/static/js/main.a63c4258.js",
+    "static/js/787.a763dded.chunk.js": "/overpowered/static/js/787.a763dded.chunk.js",
+    "static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.gif": "/overpowered/static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.472f7f6ff2130a957b8b.gif",
+    "static/media/pexels-photo-674010.jpeg": "/overpowered/static/media/pexels-photo-674010.b169e1b3ef55ac0e1756.jpeg",
+    "static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.jpg": "/overpowered/static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.682fb039dfcfe0af995d.jpg",
+    "static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.avif": "/overpowered/static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.673e1561fca0eb820772.avif",
+    "index.html": "/overpowered/index.html",
+    "main.7ed0206b.css.map": "/overpowered/static/css/main.7ed0206b.css.map",
+    "main.a63c4258.js.map": "/overpowered/static/js/main.a63c4258.js.map",
+    "787.a763dded.chunk.js.map": "/overpowered/static/js/787.a763dded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed0206b.css",
+    "static/js/main.a63c4258.js"
+  ]
+}
